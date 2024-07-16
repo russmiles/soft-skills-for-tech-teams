@@ -1,6 +1,6 @@
 # Soft Skills for Technical Teams: Active Listening Workshop
 
-Active Listening is at the heart of collabortive soft skills, and so this is our first workshop in the series.
+Active Listening is at the heart of collaborative soft skills and so it's only natural that this is our first workshop in the series.
 
 ## Workshop Materials
 
