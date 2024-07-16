@@ -20,6 +20,6 @@ The following additional resources are mantained here to support the Active List
 
 The original source files for the workshop materials are available in [this directory](./sources/index.md).
 
-## Want to suggest an improvement
+## Want to suggest an improvement?
 
 If you've found an area of the workshop that could do with improvement then please don't hesitate to [raise an issue](../CONTRIBUTING.md#create-a-new-issue).
